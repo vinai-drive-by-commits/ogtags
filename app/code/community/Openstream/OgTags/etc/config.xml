@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Opensteam_OgTags>
+            <version>0.0.1</version>
+        </Opensteam_OgTags>
+    </modules>
+    <global>
+        <blocks>
+            <ogtags>
+                <class>Openstream_OgTags_Block</class>
+            </ogtags>
+        </blocks>
+    </global>
+    <frontend>
+        <layout>
+            <updates>
+                <ogtags>
+                    <file>openstream/ogtags.xml</file>
+                </ogtags>
+            </updates>
+        </layout>
+    </frontend>
+</config>
