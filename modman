@@ -1,0 +1,4 @@
+app/etc/modules/Openstream_OgTags.xml                            app/etc/modules/Openstream_OgTags.xml
+app/code/community/Openstream/OgTags                             app/code/community/Openstream/OgTags
+app/design/frontend/base/default/layout/openstream/ogtags.xml    app/design/frontend/base/default/layout/openstream/ogtags.xml
+app/design/frontend/base/default/template/openstream/ogtags      app/design/frontend/base/default/template/openstream/ogtags
